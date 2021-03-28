@@ -1,1 +1,12 @@
-
+{
+  "description": "Add some description",
+  "repo": "https://github.com/ByQushjs/ByQushjs.github.io",
+  "owner": {
+    "username": "ByQushjs",
+    "email": "any@email",
+    "twitter": "ByQushjs"
+  },
+  "record": {
+    "CNAME": "ByQushjs.github.io"
+  }
+}
